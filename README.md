@@ -3,6 +3,7 @@
 ## Key Features
 - **Compatibility**: Designed for various multimodal models.
 - **Integration**: Currently integrated with **GPT-4o, Gemini Pro Vision, Claude 3 and LLaVa.**
+-  **New Features**: Includes capabilities for downloading YouTube videos, copying text between files, and automating form filling and document uploads.
 - **Future Plans**: Support for additional models.
 
 
