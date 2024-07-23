@@ -32,7 +32,8 @@ It is recommended that a screenshot of the `evaluate.py` output is included in a
 
 1. **Install the project**
 ```
-pip install self-operating-computer
+pip install AI-Desktop-Assistant-Agent-Based-Smart-Automation-Task-Management-Platform--chatgpt-4
+
 ```
 2. **Run the project**
 ```
