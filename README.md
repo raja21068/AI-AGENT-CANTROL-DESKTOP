@@ -1,4 +1,4 @@
-# AI-AGENT-CANTROL-DESKTOP
+# AI Desktop Agent: Smart Automation & Task Management Platform
 
 ## Key Features
 - **Compatibility**: Designed for various multimodal models.
