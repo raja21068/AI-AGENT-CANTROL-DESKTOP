@@ -13,6 +13,7 @@
 3. Run `operate` to see your changes
 
 
+
 ## Testing Changes
 **After making significant changes, it's important to verify that SOC can still successfully perform a set of common test cases.**
 In the root directory of the project, run:
@@ -39,6 +40,46 @@ pip install AI-Desktop-Assistant-Agent-Based-Smart-Automation-Task-Management-Pl
 ```
 operate
 ```
+# Assistant-Operating Computer
+
+**Hello, I can help you with anything. What would you like done?**
+
+---
+
+**[User]**  
+**Go to Google Docs and generate a report on the latest trends in artificial intelligence.**  
+`[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
+
+---
+
+**[User]**  
+**Go to Google Calendar and schedule all meetings and deadlines for the next month.**  
+`[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
+
+---
+
+**[User]**  
+**Go to Google Slides and create a presentation on the benefits of a healthy work-life balance.**  
+`[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
+
+---
+
+**[User]**  
+**Go to Google Forms and design a survey to gather feedback on customer satisfaction.**  
+`[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
+
+---
+
+**[User]**  
+**Go to Google My Business and update the business profile with the latest information.**  
+`[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
+
+---
+
+**[User]**  
+**Go to Google Sites and build a simple website for a community project.**  
+`[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
+
 3. **Enter your OpenAI Key**: If you don't have one, you can obtain an OpenAI key [here](https://platform.openai.com/account/api-keys)
 
 4. **Give Terminal app the required permissions**: As a last step, the Terminal app will ask for permission for "Screen Recording" and "Accessibility" in the "Security & Privacy" page of Mac's "System Preferences".
