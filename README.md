@@ -1,4 +1,5 @@
 # AI Desktop Agent: Smart Automation & Task Management Platform
+![Assistant Operating Computer](1.png)
 ![Assistant Operating Computer](demo.gif)
 
 ## Key Features
