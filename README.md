@@ -46,37 +46,37 @@ operate
 
 ---
 
-**[User]**  
+`[User]`  
 **Go to Google Docs and generate a report on the latest trends in artificial intelligence.**  
 `[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
 
 ---
 
-**[User]**  
+`[User]`  
 **Go to Google Calendar and schedule all meetings and deadlines for the next month.**  
 `[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
 
 ---
 
-**[User]**  
+`[User]` 
 **Go to Google Slides and create a presentation on the benefits of a healthy work-life balance.**  
 `[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
 
 ---
 
-**[User]**  
+`[User]`  
 **Go to Google Forms and design a survey to gather feedback on customer satisfaction.**  
 `[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
 
 ---
 
-**[User]**  
+`[User]`  
 **Go to Google My Business and update the business profile with the latest information.**  
 `[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
 
 ---
 
-**[User]**  
+`[User]`  
 **Go to Google Sites and build a simple website for a community project.**  
 `[Desktop-Assistant-Operating Computer]` <span style="color: green;">**Done**</span>
 
