@@ -1,4 +1,5 @@
 # AI Desktop Agent: Smart Automation & Task Management Platform
+![Assistant Operating Computer](demo.gif)
 
 ## Key Features
 - **Compatibility**: Designed for various multimodal models.
@@ -29,7 +30,7 @@ It is recommended that a screenshot of the `evaluate.py` output is included in a
 
 
 
-## Run `Self-Operating Computer`
+## Run `Assistant-Operating Computer`
 
 1. **Install the project**
 ```
@@ -41,6 +42,7 @@ pip install AI-Desktop-Assistant-Agent-Based-Smart-Automation-Task-Management-Pl
 operate
 ```
 # Assistant-Operating Computer
+
 
 **Hello, I can help you with anything. What would you like done?**
 
